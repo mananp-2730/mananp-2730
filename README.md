@@ -24,3 +24,10 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
+<h3 align="left">📈 GitHub Analytics</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mananp-2730&show_icons=true&theme=radical&hide_border=true" alt="Manan's GitHub Stats" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananp-2730&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="195"/>
+</p>
