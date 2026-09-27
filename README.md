@@ -6,3 +6,21 @@
 - 🔭 Currently building **[BridgeBuild AI]** (translating sales requests into structured PM specs) and **[AI-VA]** (FastAPI-based voice assistant).
 - 🌱 Exploring the intersection of **AI, Automation, and Business Strategy** with a long-term goal of founding my own startup.
 - ⚡ Fun fact: When I am not building products or analyzing data, you can find me reading up on Indian history, hitting my 10,000 daily steps, or training at the gym.
+
+<h3 align="left">🛠️ Toolkit & Technologies</h3>
+
+**Languages & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
+
+**Product Management & Analytics**
+<p align="left">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="PowerBI" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
