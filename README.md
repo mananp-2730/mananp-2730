@@ -27,6 +27,28 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+<h3 align="left">🚀 Featured Projects</h3>
+
+<table bordercolor="#33363b">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🌉 BridgeBuild AI</h3>
+      <p>A Python software tool designed to translate sales requests into structured product management specification documents.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      </p>
+      <a href="https://github.com/mananp-2730/YOUR_EXACT_REPO_NAME_HERE">🔗 View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🎙️ AI-VA</h3>
+      <p>A software application utilizing FastAPI to deliver advanced voice assistant capabilities.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009485?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      </p>
+      <a href="https://github.com/mananp-2730/YOUR_EXACT_REPO_NAME_HERE">🔗 View Repository</a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">📈 GitHub Analytics</h3>
 
