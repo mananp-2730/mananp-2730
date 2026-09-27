@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mananp-2730&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
 <h1 align="center">Hi 👋, I'm Manan</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
