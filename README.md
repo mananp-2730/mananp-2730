@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manan</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=009485&center=true&vCenter=true&width=600&lines=Think.+Build.+Ship.+Repeat.;Aspiring+Product+Manager;Data-Driven+Business+Strategy;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=009485&center=true&vCenter=true&width=600&lines=Think.+Build.+Ship.+Repeat.;Aspiring+Product+Manager;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
