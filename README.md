@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manan</h1>
-<h3 align="center">Think. Build. Ship. Repeat. | Aspiring Product Manager</h3>
+<h3 align="center">Aspiring Product Manager</h3>
 
 - 🎓 Pursuing an **MBA in Business Analytics** at Chandigarh University (Background in Computer Engineering).
 - 💼 Leveraging past experience in **domestic and international SaaS Sales** to bridge the gap between user needs and technical execution.
