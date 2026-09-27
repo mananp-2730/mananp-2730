@@ -38,25 +38,75 @@
   <img src="https://img.shields.io/badge/Stakeholder_Management-00A98F?style=for-the-badge" alt="Stakeholder Management" />
   <img src="https://img.shields.io/badge/Requirements_Gathering-4B0082?style=for-the-badge" alt="Requirements Gathering" />
 </p>
+
 <h3 align="left">Featured Projects</h3>
 
 <table bordercolor="#33363b">
+  <!-- Row 1 -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">BridgeBuild AI</h3>
-      <p>A Python software tool designed to translate sales requests into structured product management specification documents.</p>
+      <p>A multi-tenant SaaS platform featuring an Epic Splitter and Strategic Tech Stack Toggle to translate business requirements into engineering tickets. Includes a Real-Time Dynamic Quoting system.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
       </p>
       <a href="https://github.com/mananp-2730/BridgeBuild-AI-PM-Tool">🔗 View Repository</a>
     </td>
     <td width="50%" valign="top">
       <h3 align="left">AI-VA</h3>
-      <p>A software application utilizing FastAPI to deliver advanced voice assistant capabilities.</p>
+      <p>A Generative BI voice assistant utilizing a Continuous Conversational Loop for rapid data exploration. Built with a Spatial Highlighting Engine to dynamically visualize and interact with business metrics.</p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009485?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
       </p>
       <a href="https://github.com/mananp-2730/AI-VA">🔗 View Repository</a>
+    </td>
+  </tr>
+  
+  <!-- Row 2 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">Project Nexus: AI War Room</h3>
+      <p>A full-stack, multi-agent AI orchestrator utilizing LangGraph and Llama 3.3 to automate product scope debates between Sales and Engineering agents. Features RAG document uploads and automated PRD generation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/LangGraph-02569B?style=flat-square&logo=python&logoColor=white" alt="LangGraph" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+      <a href="https://github.com/mananp-2730/project-nexus">🔗 View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">B2B Churn Predictor</h3>
+      <p>An interactive machine learning dashboard that evaluates B2B sales pipelines, calculates real-time win probabilities, and flags high-risk churn scenarios using Logistic Regression.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+      </p>
+      <a href="https://github.com/mananp-2730/b2b-churn-predictor">🔗 View Repository</a>
+    </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">Raymond Group Dashboard</h3>
+      <p>An interactive scrollytelling web dashboard analyzing Raymond Group's brand repositioning, developed for an MBA marketing assignment.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Web-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Web" />
+        <img src="https://img.shields.io/badge/Data_Viz-0052CC?style=flat-square&logo=databricks&logoColor=white" alt="Data" />
+      </p>
+      <!-- Make sure to update the URL below to your exact repository name -->
+      <a href="https://github.com/mananp-2730/Raymond-STP-7Ps-Case-MM">🔗 View Repository</a> 
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">📂 More Projects</h3>
+      <p>Check out my repositories to see more of my work spanning AI automation, data analytics, and full-stack software development.</p>
+      <br><br>
+      <a href="https://github.com/mananp-2730?tab=repositories">🔗 View All Repositories</a>
     </td>
   </tr>
 </table>
