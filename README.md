@@ -27,16 +27,6 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-<h3 align="left">🚀 Featured Projects</h3>
-
-<p align="left">
-  <a href="https://github.com/mananp-2730/BridgeBuild-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mananp-2730&repo=BridgeBuild-AI&theme=radical&hide_border=true" alt="BridgeBuild AI Repo" />
-  </a>
-  <a href="https://github.com/mananp-2730/AI-VA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mananp-2730&repo=AI-VA&theme=radical&hide_border=true" alt="AI-VA Repo" />
-  </a>
-</p>
 
 <h3 align="left">📈 GitHub Analytics</h3>
 
