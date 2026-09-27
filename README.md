@@ -54,6 +54,15 @@
 
 [![Manan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mananp-2730&theme=radical&hide_border=true)](https://github.com/mananp-2730)
 
+<div align="center">
+  <h3>🐍 My GitHub Activity</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mananp-2730/mananp-2730/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mananp-2730/mananp-2730/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mananp-2730/mananp-2730/output/github-snake.svg">
+  </picture>
+</div>
+
 <h3 align="left">📫 Let's Connect!</h3>
 
 <p align="left">
