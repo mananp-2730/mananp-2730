@@ -9,7 +9,7 @@
 - 💼 Leveraging past experience in **domestic and international Business Development** to bridge the gap between user needs and technical execution.
 - 🔭 Currently building **[BridgeBuild AI]** (translating sales requests into structured PM specs) and **[AI-VA]** (FastAPI-based voice assistant).
 
-<h3 align="left">🛠️ Toolkit & Technologies</h3>
+<h3 align="left">Toolkit & Technologies</h3>
 
 **Languages & Frameworks**
 <p align="left">
@@ -27,35 +27,35 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-<h3 align="left">🚀 Featured Projects</h3>
+<h3 align="left">Featured Projects</h3>
 
 <table bordercolor="#33363b">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🌉 BridgeBuild AI</h3>
+      <h3 align="left">BridgeBuild AI</h3>
       <p>A Python software tool designed to translate sales requests into structured product management specification documents.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       </p>
-      <a href="https://github.com/mananp-2730/YOUR_EXACT_REPO_NAME_HERE">🔗 View Repository</a>
+      <a href="https://github.com/mananp-2730/BridgeBuild-AI-PM-Tool">🔗 View Repository</a>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🎙️ AI-VA</h3>
+      <h3 align="left">AI-VA</h3>
       <p>A software application utilizing FastAPI to deliver advanced voice assistant capabilities.</p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009485?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
       </p>
-      <a href="https://github.com/mananp-2730/YOUR_EXACT_REPO_NAME_HERE">🔗 View Repository</a>
+      <a href="https://github.com/mananp-2730/AI-VA">🔗 View Repository</a>
     </td>
   </tr>
 </table>
 
-<h3 align="left">📈 GitHub Analytics</h3>
+<h3 align="left">GitHub Analytics</h3>
 
 [![Manan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mananp-2730&theme=radical&hide_border=true)](https://github.com/mananp-2730)
 
 <div align="center">
-  <h3>🐍 My GitHub Activity</h3>
+  <h3>My GitHub Activity</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mananp-2730/mananp-2730/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mananp-2730/mananp-2730/output/github-snake.svg">
@@ -63,7 +63,7 @@
   </picture>
 </div>
 
-<h3 align="left">📫 Let's Connect!</h3>
+<h3 align="left">Let's Connect!</h3>
 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
