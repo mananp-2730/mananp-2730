@@ -27,7 +27,4 @@
 
 <h3 align="left">📈 GitHub Analytics</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mananp-2730&show_icons=true&theme=radical&hide_border=true" alt="Manan's GitHub Stats" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananp-2730&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="195"/>
-</p>
+[![Manan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mananp-2730&theme=radical&hide_border=true)](https://github.com/mananp-2730)
