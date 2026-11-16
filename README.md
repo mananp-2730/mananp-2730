@@ -77,6 +77,7 @@
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </p>
       <a href="https://github.com/mananp-2730/project-nexus">🔗 View Repository</a>
+      <p>A multi-agent AI debate orchestrator built with LangGraph, Next.js, and Supabase. <b>🔥 Now monetized and available as a plug-and-play agent skill on Agensi.io.</b></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="left">B2B Churn Predictor</h3>
